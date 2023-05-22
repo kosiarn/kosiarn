@@ -1,6 +1,6 @@
 # Cześć!
 
-Jestem studentem III roku kierunku Inżynieria i Analiza Danych.
+Jestem studentem II roku kierunku Inżynieria i Analiza Danych.
 Moje główne obszary zainteresowania to:
 
 - analiza danych,
